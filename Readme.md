@@ -129,8 +129,9 @@ Matrix and summary tables were used to identify:
 ---
 
 ## Dashboard Preview
-<img width="1327" height="747" alt="image" src="https://github.com/user-attachments/assets/ee3f953b-3cc9-44b4-9cf6-cf46f02d2dc3" />
-<img width="1325" height="747" alt="image" src="https://github.com/user-attachments/assets/09c8c5c2-e59d-4061-94ed-a32048e3340b" />
+<img width="1327" height="747" alt="image" src="https://github.com/user-attachments/assets/8044f9b5-6c54-45a8-8f79-4bf71a1a63d3" />
+
+<img width="1327" height="747" alt="image" src="https://github.com/user-attachments/assets/633429e5-bb19-4dbd-ad5f-7bfd5e1ff1bb" />
 
 ---
 
